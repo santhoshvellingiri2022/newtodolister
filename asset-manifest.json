@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/santhoshvellingiri2022/newtodolister.git/static/css/main.c0b68f2c.css",
+    "main.js": "/santhoshvellingiri2022/newtodolister.git/static/js/main.cd172ca4.js",
+    "index.html": "/santhoshvellingiri2022/newtodolister.git/index.html",
+    "main.c0b68f2c.css.map": "/santhoshvellingiri2022/newtodolister.git/static/css/main.c0b68f2c.css.map",
+    "main.cd172ca4.js.map": "/santhoshvellingiri2022/newtodolister.git/static/js/main.cd172ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b68f2c.css",
+    "static/js/main.cd172ca4.js"
+  ]
+}
